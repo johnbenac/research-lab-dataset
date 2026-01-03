@@ -1,11 +1,6 @@
 ---
-id: type:paper
-datasetId: dataset:research-lab
-typeId: sys:type
-createdAt: 2025-12-01T00:00:00Z
-updatedAt: 2025-12-01T00:00:00Z
+typeId: paper
 fields:
-  recordTypeId: paper
   displayName: Paper
   pluralName: Papers
   icon: book

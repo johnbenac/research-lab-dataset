@@ -1,19 +1,16 @@
 ---
-id: experiment:github-import-scale
-datasetId: dataset:research-lab
 typeId: experiment
-createdAt: 2025-12-22T00:00:00Z
-updatedAt: 2025-12-27T00:00:00Z
+recordId: github-import-scale
 fields:
   title: "GitHub import at scale"
   status: in_progress
   date: 2025-12-22
-  lead: person:vaswani
+  lead: "[[person:vaswani]]"
   datasets:
-    - dataset:seed-demo
+    - "[[dataset:seed-demo]]"
   links:
-    - claim:md-round-trip
-    - paper:attention-is-all-you-need
+    - "[[claim:md-round-trip]]"
+    - "[[paper:attention-is-all-you-need]]"
 ---
 ## Protocol
 1. Use GitHub tree API with `?recursive=1`

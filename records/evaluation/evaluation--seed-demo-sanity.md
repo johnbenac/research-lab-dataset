@@ -1,9 +1,6 @@
 ---
-id: evaluation:seed-demo-sanity
-datasetId: dataset:research-lab
 typeId: evaluation
-createdAt: 2025-12-30T12:00:00Z
-updatedAt: 2025-12-30T12:00:00Z
+recordId: seed-demo-sanity
 fields:
   name: Seed demo sanity check
   datasetRefs:

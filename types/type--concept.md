@@ -1,11 +1,6 @@
 ---
-id: type:concept
-datasetId: dataset:research-lab
-typeId: sys:type
-createdAt: 2025-12-01T00:00:00Z
-updatedAt: 2025-12-01T00:00:00Z
+typeId: concept
 fields:
-  recordTypeId: concept
   displayName: Concept
   pluralName: Concepts
   icon: lightbulb

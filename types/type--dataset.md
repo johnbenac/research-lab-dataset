@@ -1,11 +1,6 @@
 ---
-id: type:dataset
-datasetId: dataset:research-lab
-typeId: sys:type
-createdAt: 2025-12-01T00:00:00Z
-updatedAt: 2025-12-01T00:00:00Z
+typeId: dataset
 fields:
-  recordTypeId: dataset
   displayName: Dataset Artifact
   pluralName: Dataset Artifacts
   icon: database
@@ -24,6 +19,11 @@ fields:
       default: seed
       ui:
         label: Kind
+
+    description:
+      kind: string
+      ui:
+        label: Description
 
     links:
       kind: ref[]

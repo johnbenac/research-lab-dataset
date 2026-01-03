@@ -1,11 +1,6 @@
 ---
-id: type:claim
-datasetId: dataset:research-lab
-typeId: sys:type
-createdAt: 2025-12-01T00:00:00Z
-updatedAt: 2025-12-01T00:00:00Z
+typeId: claim
 fields:
-  recordTypeId: claim
   displayName: Claim
   pluralName: Claims
   icon: link

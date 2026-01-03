@@ -1,11 +1,6 @@
 ---
-id: type:experiment
-datasetId: dataset:research-lab
-typeId: sys:type
-createdAt: 2025-12-01T00:00:00Z
-updatedAt: 2025-12-01T00:00:00Z
+typeId: experiment
 fields:
-  recordTypeId: experiment
   displayName: Experiment
   pluralName: Experiments
   icon: flask

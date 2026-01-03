@@ -1,22 +1,19 @@
 ---
-id: type:evaluation
-datasetId: dataset:research-lab
-typeId: sys:type
-createdAt: 2025-12-30T00:00:00Z
-updatedAt: 2025-12-30T00:00:00Z
+typeId: evaluation
 fields:
-  recordTypeId: evaluation
   displayName: Evaluation
   pluralName: Evaluations
   icon: checklist
   bodyField: notes
+
   composition:
     dataset:
-      recordTypeId: dataset
-      min: 1
+      typeId: dataset
+      required: true
     experiment:
-      recordTypeId: experiment
-      min: 1
+      typeId: experiment
+      required: true
+
   fieldDefs:
     name:
       kind: string
