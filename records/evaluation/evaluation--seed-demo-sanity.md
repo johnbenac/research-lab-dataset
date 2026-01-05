@@ -1,6 +1,7 @@
 ---
 typeId: evaluation
 recordId: seed-demo-sanity
+parent: experiment:github-import-scale
 fields:
   name: Seed demo sanity check
   datasetRefs:

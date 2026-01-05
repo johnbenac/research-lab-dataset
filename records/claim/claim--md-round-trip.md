@@ -1,6 +1,7 @@
 ---
 typeId: claim
 recordId: md-round-trip
+parent: experiment:github-import-scale
 fields:
   statement: "Markdown-first datasets improve interoperability and diffability."
   confidence: 0.7

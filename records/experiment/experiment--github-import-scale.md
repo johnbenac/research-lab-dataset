@@ -1,6 +1,7 @@
 ---
 typeId: experiment
 recordId: github-import-scale
+parent: dataset:seed-demo
 fields:
   title: "GitHub import at scale"
   status: in_progress

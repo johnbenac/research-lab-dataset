@@ -1,6 +1,7 @@
 ---
 typeId: concept
 recordId: transformer
+parent: paper:attention-is-all-you-need
 fields:
   name: Transformer
   links:
